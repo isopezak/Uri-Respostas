@@ -21,4 +21,5 @@
 <p>De <a href="https://www.urionlinejudge.com.br/judge/pt/terms-and-conditions">Uri_judge</a></p><br>
 <p>E para deixar bem claro o que já está explicado na autorização só vou postar MEUS códigos, minhas soluções e as indicarei apenas pelo respectivo número fornecido pelo site, exemplo: uri_1001, uri_1002...</p>
 <p>Após esta pequena introdução já vou explicando a todos que meu único objetivo é organizar minhas próprias ideias referente ao aprendizado da programação e compartilhar conhecimento.</p>
+<p>Estou disponibilizando um arquivo com a maioria das respostas, conforme eu for atualizando farei o upload da última versão.</p>
 
